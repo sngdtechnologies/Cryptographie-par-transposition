@@ -1,6 +1,6 @@
 # Transposition algorithm
 
-## Principle of operation of the algorithm.
+## How the algorithm works.
 
 - Request and Recover text to be encrypted and encryption key
 - Remove spaces from text
